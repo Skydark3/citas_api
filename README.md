@@ -18,12 +18,8 @@ python manage.py runserver
 
 ENDPOINTS PRINCIPALES:
 
-GET /api/productos/
+GET /api/citas/
 
-POST /api/productos/
+POST /api/usuaios/
 
-GET /api/categorias/
 
-GET /api/unidades/
-
-GET /api/estados/
